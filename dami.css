@@ -38,6 +38,11 @@ body {
     left: 0;
 }
 
+#text{
+    color: white;
+    font-size: 60px;
+}
+
 .heart::after {
     top: 0;
     left: -25px;
